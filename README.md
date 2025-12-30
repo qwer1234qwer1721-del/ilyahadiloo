@@ -4,8 +4,7 @@ my work
 
 Combine Lip Sync AI and Face Restoration AI to get ultra high quality videos.
 video_2025-12-29_17-18-15.mp4
- 
-
+video_2025-12-29_17-18-15.mp4
 
 
 Projects referred:
