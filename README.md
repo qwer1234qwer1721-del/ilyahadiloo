@@ -33,3 +33,40 @@ that can be easily extended.
 ## Project Structure
 
 
+---
+
+## Installation
+
+Install dependencies:
+
+
+---
+
+## Usage
+
+Run the script:
+
+
+The output video will be saved as:
+
+
+---
+
+## Projects Referenced
+
+1. https://github.com/Zulko/moviepy  
+2. https://github.com/imageio/imageio  
+
+---
+
+## Video Sources
+
+- Generated programmatically using Python
+- No external video files required
+
+---
+
+## License
+
+MIT License
+
