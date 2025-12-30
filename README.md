@@ -12,6 +12,5 @@ Instagram Reels, TikTok, and YouTube Shorts.
 ## Demo Video
 video_2025-12-29_17-18-15.mp4
 ![Demo](demo.png)
-## 🎥 Demo Video
 
-[برای دیدن ویدئو کلیک کنید](assets/demo.mp4)
+(video_2025-12-29_17-18-15.mp4/demo.mp4)
