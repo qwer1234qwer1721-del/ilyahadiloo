@@ -8,7 +8,6 @@ This project allows you to create simple text-based videos suitable for
 Instagram Reels, TikTok, and YouTube Shorts.
 
 ---
-
 ## Demo Video
-video_2025-12-29_17-18-15.mp4
-(demo.png)
+(assets/demo.mp4)
+
