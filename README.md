@@ -6,8 +6,3 @@
 Generate vertical videos using Python and MoviePy.
 This project allows you to create simple text-based videos suitable for
 Instagram Reels, TikTok, and YouTube Shorts.
-
----
-## Demo Video
-(assets/demo.mp4)
-
